@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="title_margin_bottom">24dp</dimen>
+    <dimen name="input_padding">12dp</dimen>
+    <dimen name="input_margin_bottom">16dp</dimen>
+    <dimen name="link_margin_top">8dp</dimen>
+    <dimen name="button_margin_top">16dp</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/button_color</item>
+        <item name="colorPrimaryDark">@color/title_color</item>
+    </style>
+    <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+</resources>
